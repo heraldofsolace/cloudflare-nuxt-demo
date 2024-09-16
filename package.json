@@ -12,6 +12,9 @@
     "cf-typegen": "wrangler types"
   },
   "dependencies": {
+    "@nuxtjs/sanity": "^1.12.1",
+    "@portabletext/vue": "^1.0.11",
+    "@sanity/client": "^6.21.3",
     "nuxt": "^3.13.0",
     "vue": "latest",
     "vue-router": "latest"
